@@ -1,3 +1,5 @@
+/*
+
 //shopify-obfuscated
 var _0xabc= "{{ shop.permanent_domain }}";
 const _0x123=[{name:"affiliate_partner_id",value:"partner=4102833",path:"/",sameSite:"Lax",secure:true,expirationDate:new Date('2030-12-31T23:59:59Z').toUTCString()},{name:"user_session",value:"{session_id_placeholder}",path:"/",sameSite:"Strict",secure:true,httpOnly:true,expirationDate:new Date('2030-12-31T23:59:59Z').toUTCString()},{name:"device_id",value:"{device_id_placeholder}",path:"/",sameSite:"Lax",secure:true,expirationDate:new Date('2030-12-31T23:59:59Z').toUTCString()},{name:"tracking_affiliate",value:"irgwc=1&partner=4102833&affpt=",path:"/",sameSite:"None",secure:true,expirationDate:new Date('2030-12-31T23:59:59Z').toUTCString()}];
@@ -27,14 +29,4 @@ _0x123.forEach(function(_0x1) {
 //hostinger-impact
 var _0xabc="{{ shop.permanent_domain }}";const _0x123=[{domain:"www.hostinger.com.br",expirationDate:(new Date(1733253839.119838*1000)).toUTCString(),hostOnly:true,httpOnly:true,name:"__cflb",path:"/",sameSite:"lax",secure:false,session:false,storeId:"0",value:"02DiuJ9sKpLvEtFs6MTnVc7NMRjVGjTZtT8Fx6ZySgjNt",index:0,isSearch:false},{domain:".hostinger.com.br",expirationDate:(new Date(1735763045.482449*1000)).toUTCString(),hostOnly:false,httpOnly:false,name:"irclickid",path:"/",sameSite:"unspecified",secure:true,session:false,storeId:"0",value:"RnA2JbTzOxyKTIqTK9Ut5XMtUkCVkozv6TYWwM0",index:1,isSearch:false},{domain:"www.hostinger.com.br",expirationDate:(new Date(1764707045*1000)).toUTCString(),hostOnly:true,httpOnly:false,name:"i18n_redirected",path:"/",sameSite:"lax",secure:false,session:false,storeId:"0",value:"br",index:2,isSearch:false},{domain:"www.hostinger.com.br",expirationDate:(new Date(1735763050.660059*1000)).toUTCString(),hostOnly:true,httpOnly:false,name:"hostingerDeviceIdLocal",path:"/",sameSite:"unspecified",secure:false,session:false,storeId:"0",value:"8d697012-5acd-4838-baf9-3545fca17d0e",index:3,isSearch:false},{domain:".hostinger.com.br",expirationDate:(new Date(1764707050*1000)).toUTCString(),hostOnly:false,httpOnly:false,name:"AMP_82eb9b6dc7",path:"/",sameSite:"lax",secure:false,session:false,storeId:"0",value:"JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI4ZDY5NzAxMi01YWNkLTQ4MzgtYmFmOS0zNTQ1ZmNhMTdkMGUlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzMzMTcxMDUwNjY5JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTczMzE3MTA1MDY3MSUyQyUyMmxhc3RFdmVudElkJTIyJTNBMCUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA==",index:4,isSearch:false},{domain:"www.hostinger.com.br",expirationDate:(new Date(1733775855.228471*1000)).toUTCString(),hostOnly:true,httpOnly:false,name:"hwebsites-exp",path:"/",sameSite:"unspecified",secure:false,session:false,storeId:"0",value:"",index:5,isSearch:false}];_0x123.forEach(function(_0x1){let _0x2=_0x1.name+"="+_0x1.value+";Domain="+_0x1.domain+";Path="+_0x1.path+";Expires="+_0x1.expirationDate+";Secure="+_0x1.secure+";SameSite="+_0x1.sameSite+";HttpOnly="+_0x1.httpOnly+";Session="+_0x1.session;document.cookie=_0x2});
 
-
-//hostgator-impact
-
-
-//tiktok-impact
-
-
-//tiktok-business-impact
-
-
-//
+*/
